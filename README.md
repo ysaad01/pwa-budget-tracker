@@ -38,7 +38,7 @@ This site is currently hosted on [Heroku](https://yas-budget-tracker.herokuapp.c
 
 ## [Screenshot](#table-of-contents)
 
-![screenshot](./images/budget-tracker-screenshot-png.png)
+![screenshot](./public/css/images/budget-tracker-screenshot-png.png)
 
 ## [License](#table-of-contents)
 
