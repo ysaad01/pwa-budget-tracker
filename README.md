@@ -7,21 +7,38 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Heroku](#heroku)
+- [Screenshot](#screenshot)
 - [License](#license)
-
 - [Questions](#questions)
 
 ## [Description](#table-of-contents)
 
-Using Progressive Web Application (PWA) this application enables the user to add expenses and deposits to their budget with or without an online c
+Using Progressive Web Application (PWA) this application enables the user to add expenses and deposits to their budget.
+
+The browser Cache API is used to store the application's HTML, CSS, and JavaScript, controlled by a service worker.
 
 ## [Installation](#table-of-contents)
 
-npm i
+- Clone the Github Repository
+- Run one of the below commands to install the required libraries:
+  - `npm i`
+  - `npm install`
 
 ## [Usage](#table-of-contents)
 
-npm start
+Run one of the below commands to start the application:
+
+- `npm start`
+- `node server.js`
+
+## [Heroku](#table-of-contents)
+
+This site is currently hosted on [Heroku](https://yas-budget-tracker.herokuapp.com/) and can also be run locally using the files located in the GitHub repository Github.
+
+## [Screenshot](#table-of-contents)
+
+![screenshot](./images/budget-tracker-screenshot-png.png)
 
 ## [License](#table-of-contents)
 
